@@ -83,7 +83,7 @@ Import the [fakeplc_connector.app]() file into your IEM (industrial edge managem
 ![image](https://github.com/siemens-nl-fa/Industrial-Edge-FakePLC-Connector/assets/104070599/071b960b-2dea-4fc8-a8ed-0941d0df3a60)
 
 ###### Notes*
-Anywhere metadata/data topics are used, replace: opcuac1 or s7c1 with fakeplce. For example: "ie/m/j/simatic/v1/opcuac1/dp" replace to "ie/m/j/simatic/v1/fakeplc/dp"
+Anywhere metadata/data topics are used, replace: opcuac1 or s7c1 for example with fakeplc. Like: "ie/m/j/simatic/v1/opcuac1/dp" will become "ie/m/j/simatic/v1/fakeplc/dp"
 
 
 
