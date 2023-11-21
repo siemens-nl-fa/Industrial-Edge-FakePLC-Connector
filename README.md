@@ -1,5 +1,5 @@
 # FakePLC Connector
-The fakeplc connector generates data from the [Tank Application](https://github.com/industrial-edge/miscellaneous/tree/main/tank%20application)
+The fakeplc connector generates as if its the [Tank Application](https://github.com/industrial-edge/miscellaneous/tree/main/tank%20application)
 
 
 
@@ -49,12 +49,12 @@ Required apps for a minimum setup is FakePLC Connector, Databus and IIH Essentia
 
 ## Settings Page
 For more information at own connectors please refer to [common payload format](https://github.com/industrial-edge/common-databus-payload-format)
-Here you can setup connectivity. by default it connects to the ie-databus broker at ie/# and user/password: edge/edge
+Here you can setup connectivity. By default it connects to the ie-databus broker at ie/# and user/password: edge/edge
 
 ![image](./assets/284637873-8a839556-345c-47b8-806c-c8484fb66b03.png)
 
 ## Tags Page
-Here you can setup your own tags, by default the tank application is used.
+Here you can setup your own tags, the tank application is used as default.
 
 ![image](./assets/284638055-6ab91f3d-334d-4128-9032-5480d2c77bf8.png)
 
@@ -64,7 +64,7 @@ Here you can setup your own tags, by default the tank application is used.
 Please setup the databus as shown here [link](https://github.com/industrial-edge/S7-Connector-data-handling-getting-started/blob/main/docs/Installation.md)
 
 ## Step 2 - Install FakePLC Connector
-Import the [fakeplc_connector.app]() file into your IEM (industrial edge management)
+Import the [fakeplc_connector.app](./fakeplcConnector_1.0.4.app.7z) extract and import file into your IEM (industrial edge management)
 
 ![image](./assets/284646514-2c3747de-7c01-47d5-8097-3b12ec6b5af0.png)
 
