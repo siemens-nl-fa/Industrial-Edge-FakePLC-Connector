@@ -18,10 +18,12 @@ The fakeplc connector generates data from the [Tank Application](https://github.
 
 ## App on device
 Required apps for a minimum setup is FakePLC Connector, Databus and IIH Essentials
-![image](https://github.com/siemens-nl-fa/Industrial-Edge-FakePLC-Connector/assets/104070599/5aaef382-f0d8-4656-8193-b0686b9ef457)
+
+![image](https://github.com/siemens-nl-fa/Industrial-Edge-FakePLC-Connector/assets/104070599/f61c846b-8855-4038-bbd1-cdc32f9f4718)
 
 ## Connectivity
 For more information at own connectors please refer to [common payload format](https://github.com/industrial-edge/common-databus-payload-format)
+
 ![image](https://github.com/siemens-nl-fa/Industrial-Edge-FakePLC-Connector/assets/104070599/8a839556-345c-47b8-806c-c8484fb66b03)
 
 ##Settings
