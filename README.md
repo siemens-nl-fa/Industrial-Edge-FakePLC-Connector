@@ -3,7 +3,7 @@ The fakeplc connector generates data from the [Tank Application](https://github.
 
 
 
-###### tags:
+###### Tags:
 * machineState | Int
 * numberProduced | :Int
 * numberFaulty | Int
