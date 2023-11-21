@@ -64,7 +64,7 @@ Here you can setup your own tags, by default the tank application is used.
 Please setup the databus as shown here [link](https://github.com/industrial-edge/S7-Connector-data-handling-getting-started/blob/main/docs/Installation.md)
 
 ## Step 2 - Install FakePLC Connector
-Import the [fakeplc_connector.app]() file into your IEM (industrial edge management)
+Import the [fakeplc_connector.app](./fakeplcConnector_1.0.4.app.7z) extract and import file into your IEM (industrial edge management)
 
 ![image](https://github.com/siemens-nl-fa/Industrial-Edge-FakePLC-Connector/assets/104070599/2c3747de-7c01-47d5-8097-3b12ec6b5af0)
 
