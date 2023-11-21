@@ -46,13 +46,16 @@ Import the [fakeplc_connector.app]() file into your IEM (industrial edge managem
 - Install IIH Essentials
 - Open IIH Essentials
 - Go to Settings (Navigation) > Databus Settings > Set broker url to : tcp://ie-databus:1883, username to : edge, passwod to : edge and save
-- Go Connectors (Navigation) > A new suggestion should appear > Edit > Give it the name "Fakeplc Connector" > Activate status > Save > Now it should be connected
+- Go to Connectors (Navigation) > A new suggestion should appear > Edit > Give it the name "Fakeplc Connector" > Activate status > Save > Now it should be connected
 - Go to Assets (Navigation) > Add Multiple variables > Select all from FakePLC Connector and Save > Preview data > Checkbox Last Values and see the new Data.
 
 
 ![image](https://github.com/siemens-nl-fa/Industrial-Edge-FakePLC-Connector/assets/104070599/9975d331-aa73-4a65-adb6-1176e8b131f9)
 
 ![image](https://github.com/siemens-nl-fa/Industrial-Edge-FakePLC-Connector/assets/104070599/23942e05-fab7-4c56-87c5-e9e1742adfda)
+
+![image](https://github.com/siemens-nl-fa/Industrial-Edge-FakePLC-Connector/assets/104070599/071b960b-2dea-4fc8-a8ed-0941d0df3a60)
+
 
 
 
