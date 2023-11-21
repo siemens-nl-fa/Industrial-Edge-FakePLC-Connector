@@ -1,7 +1,8 @@
 # FakePLC Connector
 The fakeplc connector generates data from the [Tank Application](https://github.com/industrial-edge/miscellaneous/tree/main/tank%20application)
 
-The Simulated tags:
+
+###### The Simulated tags:
 * machineState | Int
 * numberProduced | :Int
 * numberFaulty | Int
