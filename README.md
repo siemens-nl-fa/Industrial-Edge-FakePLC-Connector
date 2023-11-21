@@ -1,6 +1,8 @@
 # FakePLC Connector
 The fakeplc connector generates data from the [Tank Application](https://github.com/industrial-edge/miscellaneous/tree/main/tank%20application)
 
+###### Notes*
+Anywhere metadata/data topics are used, replace: opcuac1 or s7c1 with fakeplce. For example: "ie/m/j/simatic/v1/opcuac1/dp" replace to "ie/m/j/simatic/v1/fakeplc/dp"
 
 ###### tags:
 * machineState | Int
@@ -14,6 +16,31 @@ The fakeplc connector generates data from the [Tank Application](https://github.
 * energyConsumptionFillingBottle | Real
 
 ## Scenario
+Possible scenarios to use this app for
+
+* [Archiving and visualisation](https://github.com/industrial-edge/archiving-and-visualization)
+  * Fakeplc Connector, databus, influx and grafana
+  
+* [Iot gateway](https://github.com/industrial-edge/iot-gateway)
+  * Fakeplc Connector, Databus, Cloud connector and Flow creator.
+
+* [Data service getting started](https://github.com/industrial-edge/data-service-getting-started)
+  * Fakeplc Connector, Databus and IIH Essentials
+
+* [Notifier getting started](https://github.com/industrial-edge/notifier-getting-started)
+  * Fakeplc Connector, Databus, Dataservice and Notifier
+
+* [Performance insight getting started](https://github.com/industrial-edge/performance-insight-getting-started)
+  * Fakeplc Connector, Databus, Dataservice and Performance insight
+
+* [Performance insight oee dashboard](https://github.com/industrial-edge/Performance-Insight-OEE-Dashboard)
+  * Fakeplc Connector, Dataservice, Databus and Performance insight
+
+* [Energy manager getting started](https://github.com/industrial-edge/energy-manager-getting-started)
+  * Fakeplc Connector, Dataservice, Databus and Energy manager.
+    
+
+    
 ![image](https://github.com/siemens-nl-fa/Industrial-Edge-FakePLC-Connector/assets/104070599/4f3dc760-3ad7-4c63-abab-2728a78172c9)
 
 ## App on device
