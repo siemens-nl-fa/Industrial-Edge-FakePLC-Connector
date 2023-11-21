@@ -20,6 +20,7 @@ The fakeplc connector generates data from the [Tank Application](https://github.
 ![image](https://github.com/siemens-nl-fa/Industrial-Edge-FakePLC-Connector/assets/104070599/5aaef382-f0d8-4656-8193-b0686b9ef457)
 
 ## Connectivity
+For more information at own connectors please refer to [common payload format](https://github.com/industrial-edge/common-databus-payload-format)
 ![image](https://github.com/siemens-nl-fa/Industrial-Edge-FakePLC-Connector/assets/104070599/8a839556-345c-47b8-806c-c8484fb66b03)
 
 ##Settings
