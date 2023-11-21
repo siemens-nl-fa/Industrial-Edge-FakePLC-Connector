@@ -1,6 +1,17 @@
 # FakePLC Connector
 The fakeplc connector generates data from the [Tank Application](https://github.com/industrial-edge/miscellaneous/tree/main/tank%20application)
 
+The Simulated tags:
+* machineState | Int
+* numberProduced | :Int
+* numberFaulty | Int
+* actLevel | Real
+* actTemperature | datatype:Real
+* energyConsumptionFillingTank | Real
+* waterConsumptionFillingTank | Real
+* energyConsumptionHeatingTank | Real
+* energyConsumptionFillingBottle | Real
+
 ## Scenario
 ![image](https://github.com/siemens-nl-fa/Industrial-Edge-FakePLC-Connector/assets/104070599/4f3dc760-3ad7-4c63-abab-2728a78172c9)
 
