@@ -1,8 +1,7 @@
 # FakePLC Connector
 The fakeplc connector generates data from the [Tank Application](https://github.com/industrial-edge/miscellaneous/tree/main/tank%20application)
 
-###### Notes*
-Anywhere metadata/data topics are used, replace: opcuac1 or s7c1 with fakeplce. For example: "ie/m/j/simatic/v1/opcuac1/dp" replace to "ie/m/j/simatic/v1/fakeplc/dp"
+
 
 ###### tags:
 * machineState | Int
@@ -15,7 +14,7 @@ Anywhere metadata/data topics are used, replace: opcuac1 or s7c1 with fakeplce. 
 * energyConsumptionHeatingTank | Real
 * energyConsumptionFillingBottle | Real
 
-## Scenario
+## Example Scenario's
 Possible scenarios to use this app for
 
 * [Archiving and visualisation](https://github.com/industrial-edge/archiving-and-visualization)
@@ -83,7 +82,8 @@ Import the [fakeplc_connector.app]() file into your IEM (industrial edge managem
 
 ![image](https://github.com/siemens-nl-fa/Industrial-Edge-FakePLC-Connector/assets/104070599/071b960b-2dea-4fc8-a8ed-0941d0df3a60)
 
-
+###### Notes*
+Anywhere metadata/data topics are used, replace: opcuac1 or s7c1 with fakeplce. For example: "ie/m/j/simatic/v1/opcuac1/dp" replace to "ie/m/j/simatic/v1/fakeplc/dp"
 
 
 
