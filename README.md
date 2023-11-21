@@ -1,5 +1,5 @@
 # FakePLC Connector
-The fakeplc connector generates data from the [Tank Application](https://github.com/industrial-edge/miscellaneous/tree/main/tank%20application)
+The fakeplc connector generates as if its the [Tank Application](https://github.com/industrial-edge/miscellaneous/tree/main/tank%20application)
 
 
 
