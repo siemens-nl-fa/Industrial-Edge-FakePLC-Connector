@@ -32,7 +32,30 @@ Here you can setup your own tags, by default the tank application is used.
 
 ![image](https://github.com/siemens-nl-fa/Industrial-Edge-FakePLC-Connector/assets/104070599/6ab91f3d-334d-4128-9032-5480d2c77bf8)
 
-## Setup Databus
-please setup the databus as shown here [link](https://github.com/industrial-edge/S7-Connector-data-handling-getting-started/blob/main/docs/Installation.md)
+# Installation
+
+## Step 1 - Setup Databus
+Please setup the databus as shown here [link](https://github.com/industrial-edge/S7-Connector-data-handling-getting-started/blob/main/docs/Installation.md)
+
+## Step 2 - Install FakePLC Connector
+Import the [fakeplc_connector.app]() file into your IEM (industrial edge management)
+
+![image](https://github.com/siemens-nl-fa/Industrial-Edge-FakePLC-Connector/assets/104070599/2c3747de-7c01-47d5-8097-3b12ec6b5af0)
+
+## Step 3 - Install and Use the IIH Essentials App
+- Install IIH Essentials
+- Open IIH Essentials
+- Go to Settings (Navigation) > Databus Settings > Set broker url to : tcp://ie-databus:1883, username to : edge, passwod to : edge and save
+- Go Connectors (Navigation) > A new suggestion should appear > Edit > Give it the name "Fakeplc Connector" > Activate status > Save > Now it should be connected
+- Go to Assets (Navigation) > Add Multiple variables > Select all from FakePLC Connector and Save > Preview data > Checkbox Last Values and see the new Data.
+
+
+![image](https://github.com/siemens-nl-fa/Industrial-Edge-FakePLC-Connector/assets/104070599/9975d331-aa73-4a65-adb6-1176e8b131f9)
+
+![image](https://github.com/siemens-nl-fa/Industrial-Edge-FakePLC-Connector/assets/104070599/23942e05-fab7-4c56-87c5-e9e1742adfda)
+
+
+
+
 
 
