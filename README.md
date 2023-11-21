@@ -1,5 +1,5 @@
 # FakePLC Connector
-The fakeplc connector generates data from the tank application [https://github.com/industrial-edge/miscellaneous/tree/main/tank%20application](https://github.com/industrial-edge/miscellaneous/tree/main/tank%20application)
+The fakeplc connector generates data from the [Tank Application](https://github.com/industrial-edge/miscellaneous/tree/main/tank%20application)
 
 ## Scenario
 ![image](https://github.com/siemens-nl-fa/Industrial-Edge-FakePLC-Connector/assets/104070599/4f3dc760-3ad7-4c63-abab-2728a78172c9)
