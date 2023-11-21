@@ -49,12 +49,12 @@ Required apps for a minimum setup is FakePLC Connector, Databus and IIH Essentia
 
 ## Settings Page
 For more information at own connectors please refer to [common payload format](https://github.com/industrial-edge/common-databus-payload-format)
-Here you can setup connectivity. by default it connects to the ie-databus broker at ie/# and user/password: edge/edge
+Here you can setup connectivity. By default it connects to the ie-databus broker at ie/# and user/password: edge/edge
 
 ![image](https://github.com/siemens-nl-fa/Industrial-Edge-FakePLC-Connector/assets/104070599/8a839556-345c-47b8-806c-c8484fb66b03)
 
 ## Tags Page
-Here you can setup your own tags, by default the tank application is used.
+Here you can setup your own tags, the tank application is used as default.
 
 ![image](https://github.com/siemens-nl-fa/Industrial-Edge-FakePLC-Connector/assets/104070599/6ab91f3d-334d-4128-9032-5480d2c77bf8)
 
